@@ -53,20 +53,56 @@ table, th, td {
     <td>Exp4413</td>
     <td></td>
   </tr>
+  <tr>
+    <td>10 Feb 2023</td>
+    <td>CARRIED FORWARD</td>
+    <td></td>
+    <td>6122.81</td>
+    <td>Exp4413</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10 Feb 2023</td>
+    <td>BROUGHT FORWARD</td>
+    <td></td>
+    <td>6122.81</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12 Feb 2023</td>
+    <td>Bought antivirus</td>
+    <td>300</td>
+    <td>6122.81</td>
+    <td>Exp4416</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15 Feb 2023</td>
+    <td>Sold a laptop</td>
+    <td>31264.5</td>
+    <td>6122.81</td>
+    <td>Tr413</td>
+    <td>Inv353</td>
+  </tr>
 </table> <br>
 
 
-<a href = "http://localhost/ACS/import4HTMLtoExcel.php">import4HTMLtoExcel.php</a><br>
+<!--<a href = "http://localhost/ACS/import4HTMLtoExcel.php">import4HTMLtoExcel.php</a><br>
 <a href = "http://localhost/ACS/import4FACEBOOKHTMLandDelete4throws.php">import4FACEBOOKHTMLandDelete4throws.php</a><br>
-<a href = "http://localhost/ACS/import4SerialToParallel.php">SerialToParallel select amount of columns</a><br>
+<a href = "http://localhost/ACS/import4SerialToParallel.php">SerialToParallel select amount of columns</a><br>-->
 
 		<br>
-		
-			
-			
-	
-
-<br>
+Copy above table contents into the textbox below: and submit<br>
+or you can copy from Excel.<br>
 <textarea  id="txtArea" name="txtArea" rows="20" cols="100"></textarea>
 
 <br>
